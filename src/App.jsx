@@ -2,10 +2,9 @@ import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
 
 const redirectMap = {
-    '/smprules': 'https://docs.google.com/document/d/1HC3CSvcbLHnudyWpugS0irz45Z3SpSg20iWjHOzXsxQ/edit?usp=sharing',
-    '/smpchangelog': 'https://docs.google.com/document/d/1BxiJsy_jR-p-Z0OW21giz4l1BgRye2E9kTwprvA6aPc/edit?usp=sharing',
-    '/smpguide': 'https://docs.google.com/document/d/1DOfhr_JqaM9kKS495OFERXnPq6m0roiOUZkR7ImGPCk/edit?usp=sharing',
-    '/apply': 'https://forms.gle/obWeC8xdwk1JW5Ao9'
+    '/discord': 'https://discord.gg/bUs6KDZM9C',
+    '/x': 'https://discord.gg/bUs6KDZM9C',
+    '/lagless': 'https://discord.gg/bUs6KDZM9C',
 }
 
 function App() {
