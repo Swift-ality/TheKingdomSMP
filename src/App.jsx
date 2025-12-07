@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom'
 
 const redirectMap = {
     '/discord': 'https://discord.gg/bUs6KDZM9C',
-    '/x': 'https://discord.gg/bUs6KDZM9C',
+    '/store': 'https://discord.gg/bUs6KDZM9C',
     '/lagless': 'https://discord.gg/bUs6KDZM9C',
 }
 
