@@ -5,6 +5,9 @@ const redirectMap = {
     '/discord': 'https://discord.gg/bUs6KDZM9C',
     '/store': 'https://discord.gg/bUs6KDZM9C',
     '/lagless': 'https://discord.gg/bUs6KDZM9C',
+    '/x': 'https://discord.gg/bUs6KDZM9C',
+    '/twitter': 'https://x.com/The_KingdomSMP',
+    '/tiktok': 'https://www.tiktok.com/@the_kingdom_smp', 
 }
 
 function App() {
